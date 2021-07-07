@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there! :wave:
 
-
-- 🔭 I’m currently working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos.
-- 🌱 I’m currently learning JavaScript, Node.js, APIs, mySQL, and React.
+- :relaxed: My name is Needa and I am a budding Software Engineer with a background in Automation. 
+- 🔭 I’m currently working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos :satisfied:
+- 🌱 I’m currently learning more about JavaScript, Node.js, APIs, mySQL, and React.
 - 👯 I’m looking to collaborate on small projects.
-- 💬 Ask me about anything tech related.
+- 💬 Ask me about anything tech related! 
 - 📫 How to reach me: MehmudNeeda@gmail.com.
-- ⚡ Fun fact: I love to read just about anything! Oh and I am a huge Marvel fan!.
+- ⚡ Fun fact: I love to read just about anything! Oh and I am a huge Marvel fan!
 
