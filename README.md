@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning more about JavaScript, Node.js, APIs, mySQL, and React.
 - 👯 I’m looking to collaborate on small projects.
 - 💬 Ask me about anything tech related! 
-- 📫 How to reach me: MehmudNeeda@gmail.com.
+- 📫 How to reach me: MehmudNeeda@gmail.com
 - ⚡ Fun fact: I love to read just about anything! Oh and I am a huge Marvel fan!
 
