@@ -1,4 +1,4 @@
-### Hi there! :wave:
+### Hello there! :wave:
 
 - :relaxed: My name is Needa and I am a budding Software Engineer with a background in Automation. 
 - 🔭 I’m currently working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos :satisfied:
