@@ -8,3 +8,4 @@
 - 📫 How to reach me: MehmudNeeda@gmail.com
 - ⚡ Fun fact: I love to read just about anything! Oh and I am a huge Marvel fan!
 
+![Needa's github stats](https://github-readme-stats.vercel.app/api?username=needamehmud2017&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=faeec3&bg_color=151515)
