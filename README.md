@@ -1,8 +1,8 @@
 ### Hello there! :wave:
 
 - :relaxed: My name is Needa and I am a budding Software Engineer with a background in Automation. 
-- 🔭 I’m currently working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos! :octocat:
-- 🌱 I’m currently learning more about JavaScript, Node.js, APIs, mySQL, and React.
+- 🔭 I’m working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos! :octocat:
+- 🌱 I’m learning more about JavaScript, Node.js, APIs, mySQL, and React.
 - 👯 I’m looking to collaborate on small projects 
 - 💬 Ask me about anything tech related or reach out just to say hi! 
 - 📫 How to reach me: MehmudNeeda@gmail.com
