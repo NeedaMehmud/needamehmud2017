@@ -1,4 +1,5 @@
-### Hello there! :wave:
+### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - :relaxed: My name is Needa and I am a budding Software Engineer with a background in Automation. 
 - 🔭 I’m working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos! :octocat:
