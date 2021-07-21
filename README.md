@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="300" />
 
-- :relaxed: I am a budding Software Engineer with a background in Automation. 
+- :woman_technologist: I am a budding Software Engineer with a background in Automation. 
 - 🔭 I’m working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos! :octocat:
 - 🌱 I’m learning more about JavaScript, Node.js, APIs, mySQL, and React.
 - 👯 I’m looking to collaborate on small projects 
