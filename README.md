@@ -6,7 +6,7 @@
 
 ### Happy to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=needamehmud2017) 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="300" />
 
 - :woman_technologist: I am a budding Software Engineer with a background in Automation. 
 - 🔭 I’m working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos! :octocat:
