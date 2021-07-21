@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codemyworld1001.wordpress.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/needa_mehmud)
 
-### Happy to see you hear! &nbsp; ![](https://komarev.com/ghpvc/?username=needamehmud2017) 
+### Happy to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=needamehmud2017) 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" height="300" />
 
