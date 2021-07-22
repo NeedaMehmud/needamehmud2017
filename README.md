@@ -1,4 +1,4 @@
-### Hello there! I am <a href="https://github.com/NeedaMehmud2017/advanced-css-portfolio" target="_blank">Needa Mehmud</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello there! I am <a href="https://needamehmud2017.github.io/revised-portfolio/" target="_blank">Needa Mehmud</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/needamehmud/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codemyworld1001.wordpress.com/)
