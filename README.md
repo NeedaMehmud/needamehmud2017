@@ -9,12 +9,12 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="300" />
 
 - :woman_technologist: I am a budding Software Engineer with a background in Automation. 
-- 🔭 I’m working on several projects as a bootcamp student at GA Tech. Go ahead & check out my repos! :octocat:
-- 🌱 I’m learning more about JavaScript, Node.js, APIs, mySQL, and React.
-- 👯 I’m looking to collaborate on small projects 
+- 🔭 I’m working as an Demo Engineer at Salesforce ☁️
+- 🌱 Currently, I’m learning more about JavaScript, Node.js, APIs, mySQL, and React.
+- 👯 I’m looking to collaborate on small projects!
 - 💬 Ask me about anything tech related or reach out just to say hi! 
 - 📫 How to reach me: MehmudNeeda@gmail.com
-- ⚡ Fun fact: I love to read just about anything! Oh and I am a huge Marvel fan!
+- ⚡ Fun fact: I love to read just about anything! Oh, and I am a huge Marvel fan! 🕷️
 
 **Languages and Tools:**  
 
